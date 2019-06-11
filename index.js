@@ -53,5 +53,5 @@ const [, , , , , indg] = colors;
 const { name, color, song, job, partner } = muppet;
 
 // 8. Use destructuring to assign songs 2 and 4, and Kermit's job and partner
-const { song_2, song_3, song_4 } = k_muppet.k_album.the_muppet_movie;
+const { song_2, song_3, song_4 } = k_muppet;
 const { k_job, k_partner } = k_muppet;
